@@ -30,7 +30,7 @@
     "@pawjs/image-optimizer": "^2.1.5",
     "@pawjs/pawjs": "^2.2.4",
     "@pawjs/sass": "^2.1.7",
-    "@pawjs/srcset": "^2.0.1",
+    "@pawjs/srcset": "^2.1.7",
     "bulma": "^0.7.2",
     "prop-types": "^15.6.2",
     "react": "^16.6.0",
